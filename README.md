@@ -1,5 +1,5 @@
-# CLI-Team-Prof-Gen
-Command Line Application to generate a Team Profile page from user input
+# Note Tracker
+Web application that allows users to read, write, and delete notes.
 
 ## Link to the Application deployed on Heroku
 
