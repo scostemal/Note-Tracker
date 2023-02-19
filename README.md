@@ -25,9 +25,16 @@ The following applies to API routes:
 
 ## Screenshots of Application
 
+Screenshot of the Home Page
 ![Home Page](./public/assets/images/index-page.png)
+
+Screenshot of the Application Page
 ![Notes Page](./public/assets/images/notes-page.png)
+
+Screenshot of 2 notes created and saved on the left hand side
 ![Saved Notes](./public/assets/images/2-saved-notes.png)
+
+Screenshot of the 2 saved notes in the db.json file
 ![JSON file](./public/assets/images/db-json-file.png)
 
 ## Heroku Deployment
