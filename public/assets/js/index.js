@@ -114,6 +114,7 @@ const handleRenderSaveBtn = () => {
   } else {
     show(saveNoteBtn);
   }
+  console.log('handleRenderSaveBtn fired');
 };
 
 // Render the list of note titles
@@ -177,7 +178,9 @@ if (window.location.pathname === '/notes') {
   saveNoteBtn.addEventListener('click', handleNoteSave);
   newNoteBtn.addEventListener('click', handleNewNoteView);
   noteTitle.addEventListener('keyup', handleRenderSaveBtn);
+  console.log('Note title keyup event listener added');
   noteText.addEventListener('keyup', handleRenderSaveBtn);
+  console.log('Note text keyup event listener added');
 }
 
 getAndRenderNotes();
