@@ -25,10 +25,10 @@ The following applies to API routes:
 
 ## Screenshots of Application
 
-[Home Page](./public/assets/images/index-page.png)
-[Notes Page](./public/assets/images/notes-page.png)
-[Saved Notes](./public/assets/images/2-saved-notes.png)
-[JSON file](./public/assets/images/db-json-file.png)
+![Home Page](./public/assets/images/index-page.png)
+![Notes Page](./public/assets/images/notes-page.png)
+![Saved Notes](./public/assets/images/2-saved-notes.png)
+![JSON file](./public/assets/images/db-json-file.png)
 
 ## Heroku Deployment
 
